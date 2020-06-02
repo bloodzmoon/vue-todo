@@ -8,6 +8,7 @@ Deploy [here](https://bloodzmoon.github.io/vue-todo/) with Github Page
 
 - [React](https://github.com/bloodzmoon/react-todo)
 - [Angular](https://github.com/bloodzmoon/angular-todo)
+- [Svelte](https://github.com/bloodzmoon/svelte-todo)
 
 ## Credit
 
