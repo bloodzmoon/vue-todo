@@ -60,4 +60,8 @@ body {
 a:any-link {
   color: inherit;
 }
+::selection {
+  background: #41b883;
+  color: white;
+}
 </style>
