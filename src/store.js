@@ -6,10 +6,7 @@ Vue.use(Vuex);
 
 export const store = new Vuex.Store({
   state: {
-    todos: [
-      { id: 1, task: "walking", done: false },
-      { id: 2, task: "walking2", done: true },
-    ],
+    todos: [],
   },
   getters: {
     todos: (state) => state.todos,
