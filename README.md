@@ -1,24 +1,14 @@
-# vue-todo
+# Vue Todo
 
-## Project setup
-```
-yarn install
-```
+![Cover](./git-cover.png)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Deploy [here](https://bloodzmoon.github.io/vue-todo/) with Github Page
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Differrent languages
 
-### Lints and fixes files
-```
-yarn lint
-```
+- [React](https://github.com/bloodzmoon/react-todo)
+- [Angular](https://github.com/bloodzmoon/angular-todo)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Credit
+
+Created by [me](https://github.com/bloodzmoon) with ❤
