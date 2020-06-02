@@ -17,6 +17,7 @@ const routes = [
 ];
 
 const router = new VueRouter({
+  base: "/vue-todo/",
   routes,
 });
 
